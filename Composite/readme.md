@@ -36,9 +36,19 @@ As classes e objetos participantes nesse padrão são:
 
 - Manipula objetos da composição através da interface do Componente.
 
-Abaixo um exemplo de como deve ser a estrutura do Composite 
+#### Abaixo um exemplo de como deve ser a estrutura do Composite 
 
 ![Estrutura](https://raw.githubusercontent.com/IgorAmato/Faculdade/master/Composite/Estrutura.png)
+
+### Exemplo de código:
+
+O exemplo a seguir, escrito em Java, implementa uma classe gráfica, na qual, pode ser uma elipse ou uma composição de diversas outras formas geometrias, que, todas podem ser representadas no gráfico.
+
+Ele pode ser estendido para implementar diversos outras formas geográficas (círculo, quadrado, etc.) no gráfico.
+
+
+
+
 
 
 
