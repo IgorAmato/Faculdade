@@ -46,7 +46,7 @@ O exemplo a seguir, escrito em Java, implementa uma classe gráfica, na qual, po
 
 Ele pode ser estendido para implementar diversos outras formas geográficas (círculo, quadrado, etc.) no gráfico.
 
-
+![Link do exemplo](https://github.com/IgorAmato/Faculdade/blob/master/Composite/exemplo.java)
 
 
 
