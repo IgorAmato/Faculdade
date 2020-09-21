@@ -44,3 +44,6 @@ Faça com que apenas os métodos-gancho possam sofrer override, usando adjetivos
 "protected" para métodos que devem/podem sofrer override
 
 ## Código de exemplo 
+
+[Exemplo](https://github.com/IgorAmato/Faculdade/blob/master/Template%20Method/Exemplo.java)
+
