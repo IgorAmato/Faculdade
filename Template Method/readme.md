@@ -20,3 +20,27 @@ No diagrama de classe temos a classe AbstractClass contendo o método “templat
 
 ####  ClasseConcreta 
 - Implementa as operações abstratas para desempenhar as etapas do algoritmo que tenham comportamento específico a esta subclasse
+
+## Quando usar o padrão Template Method
+
+Para implementar partes invariantes de um algoritmo uma única vez e deixar subclasses implementarem o comportamento variável
+
+Quando comportamento comum entre subclasses deveria ser fatorado e localizado numa classe comum para evitar duplicação
+
+É um passo freqüente de "refactoring" de código
+
+Primeiro identifique as diferenças
+
+Substitua o código das diferenças por uma chamada a um dos novos métodos
+
+Para controlar extensões de subclasses
+
+Você pode definir um Template Method que chame operações-gancho (hook) e pontos específicos, permitindo extensões apenas nestes pontos
+
+Faça com que apenas os métodos-gancho possam sofrer override, usando adjetivos de visibilidade
+
+"public final" para o Template Method
+
+"protected" para métodos que devem/podem sofrer override
+
+## Código de exemplo 
