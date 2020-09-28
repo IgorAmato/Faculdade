@@ -39,6 +39,9 @@ Singleton ingênuo (thread única)
 
 É muito fácil implementar um Singleton desleixado. Você só precisa ocultar o construtor e implementar um método de criação estático.
 
+[Singleton.java](https://github.com/IgorAmato/Faculdade/blob/master/Singleton/Singleton.java) 
+
+[DemoSingleThread.java](https://github.com/IgorAmato/Faculdade/blob/master/Singleton/DemoSingleThread.java)
 
  
 
