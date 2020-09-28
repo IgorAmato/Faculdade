@@ -23,4 +23,23 @@ Utilize o padrão Singleton quando uma classe em seu programa deve ter apenas um
  
  ### Estrutura 
  
+ ![Estryt](https://raw.githubusercontent.com/IgorAmato/Faculdade/master/Singleton/Estryt.png)
+ 
  No diagrama de classe acima tem-se o atributo singleton que é do tipo da sua própria classe e é estático, nessa variável tem-se a única instância da classe. Nos métodos pode-se observar a presença do construtor da classe Singleton() que é PRIVADO. Ou seja, um construtor privado não permite que a classe seja instanciada a não ser que seja feito por ela mesmo na qual será instanciada pelo método getInstance() que é estático e assim pode ser acessado de qualquer outra classe sem precisar instanciar Singleton. No exemplo veremos mais uma peculiaridade do método getInstance().
+ 
+ ### Participants
+ 
+- Define uma operação de instância que permite aos clientes acessar sua instância única. Instância é uma operação de classe (ou seja, um método de classe em Smalltalk e uma função de membro estático em C ++).
+
+- Pode ser responsável por criar sua própria instância única.
+
+### Exemplo 
+
+Singleton ingênuo (thread única)
+
+É muito fácil implementar um Singleton desleixado. Você só precisa ocultar o construtor e implementar um método de criação estático.
+
+
+ 
+
+
