@@ -6,9 +6,9 @@ O Padrão Singleton tem como definição garantir que uma classe tenha apenas um
 
 ### Motivation 
 
-Às vezes, queremos que exista apenas uma única instância de uma classe no sistema
+Às vezes, queremos que exista apenas uma única instância de uma classe no sistema.
 Por exemplo, queremos apenas um gerenciador de janelas ou apenas uma fábrica para uma família de produtos.
-Precisamos ter essa instância facilmente acessível
+Precisamos ter essa instância facilmente acessível.
 E queremos garantir que instâncias adicionais da classe não possam ser criadas
 
 ### Applicability
