@@ -23,4 +23,15 @@ O objeto memento não permite o acesso de qualquer classe além da classe origin
 
 ## Aplicabilidade: 
 
-Quando a estrutura fixa de um algoritmo puder ser definida pela superclasse deixando certas partes para serem preenchidos por implementações que podem varia
+Quando deixamos algumas informações de o
+objeto disponível para outro objeto.
+Quando queremos criar instantâneos de um
+estado para um objeto.
+Quando precisamos de operações undo/redo.
+
+## Estrutura
+
+![Estr](https://github.com/IgorAmato/Faculdade/blob/master/Padrão%20Projeto%20Memento/imagem_2020-11-10_104718.png)
+
+Exemplo de codigo: 
+
