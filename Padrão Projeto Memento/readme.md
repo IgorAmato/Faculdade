@@ -31,7 +31,10 @@ Quando precisamos de operações undo/redo.
 
 ## Estrutura
 
-![Estr](https://github.com/IgorAmato/Faculdade/blob/master/Padrão%20Projeto%20Memento/imagem_2020-11-10_104718.png)
+![Estr](https://github.com/IgorAmato/Faculdade/blob/master/Padrão%20Projeto%20Memento/imagem_2020-11-10_110749.png)
 
-Exemplo de codigo: 
+## Código de exemplo
+
+
+
 
