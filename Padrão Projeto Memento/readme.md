@@ -35,6 +35,5 @@ Quando precisamos de operações undo/redo.
 
 ## Código de exemplo
 
-
-
+[exemplo](https://github.com/IgorAmato/Faculdade/blob/master/Padrão%20Projeto%20Memento/Exemplo.java)
 
