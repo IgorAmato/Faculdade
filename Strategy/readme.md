@@ -34,4 +34,4 @@ Context: É aquele que vai acessar um dos algoritmos das subclasses de interface
 
 O exemplo abaixo foi retirado do site Wikipedia 
 
-[Codigo]](https://github.com/IgorAmato/Faculdade/tree/master/Strategy/Exemplo)
+[Codigo](https://github.com/IgorAmato/Faculdade/tree/master/Strategy/Exemplo)
