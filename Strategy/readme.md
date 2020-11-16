@@ -22,6 +22,8 @@ Quando muitas classes relacionadas diferem apenas no seu comportamento;
 
 ### Estrutura
 
+![Estr](https://github.com/IgorAmato/Faculdade/blob/master/estr.png)
+
 ### Participantes
 
 Strategy: É uma interface comum para todas as subclasses, ou para todos os algoritmos que são suportados. O Contexto usa essa interface para chamar uma das subclasses ConcreteStrategy ou um dos algoritmos definidos.
