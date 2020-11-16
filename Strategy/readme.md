@@ -30,4 +30,8 @@ Strategy: É uma interface comum para todas as subclasses, ou para todos os algo
 ConcreteStrategy: A classe concreta que herda da Strategy abstrata está definida como as subclasses ConcreteStrategyA, ConcreteStrategyB e ConcreteStrategyA no diagrama da figura 1.
 Context: É aquele que vai acessar um dos algoritmos das subclasses de interface Strategy.
 
+#EXEMPLO
 
+O exemplo abaixo foi retirado do site Wikipedia 
+
+[Codigo]](https://github.com/IgorAmato/Faculdade/tree/master/Strategy/Exemplo)
